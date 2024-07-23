@@ -1,6 +1,6 @@
 import React from "react";
 // import Cards from "./Cards";
-import Cards2 from "./Galleryprueba";
+import Cards2 from "./ImageGallery";
 
 const Container = () => {
   return (
